@@ -1,10 +1,3 @@
-/*
-Name:          Daniele Ricciardelli
-Class-Section: 3310-05
-Professor:     Liviu Oniciuc
-File:          Seminar 3
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h> 
